@@ -1,0 +1,9 @@
+Train rows: 800   At-risk: 137 (17.1%)
+Test rows:  200    At-risk: 34 (17.0%)
+Numeric features (13): ['age', 'Medu', 'Fedu', 'traveltime', 'studytime', 'failures', 'famrel', 'freetime', 'goout', 'Dalc', 'Walc', 'health', 'absences']
+Categorical features (17): ['school', 'sex', 'address', 'famsize', 'Pstatus', 'Mjob', 'Fjob', 'reason', 'guardian', 'schoolsup', 'famsup', 'paid', 'activities', 'nursery', 'higher', 'internet', 'romantic']
+Total feature dims after one-hot: 56
+
+Note: G1 and G2 (early grades) are deliberately EXCLUDED to ensure
+we are predicting risk from behavior + background, not from grades
+the student has already received in the same course.

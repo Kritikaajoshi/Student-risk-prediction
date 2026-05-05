@@ -1,0 +1,27 @@
+Rows: 1000
+Columns: 34
+At-risk students: 171 (17.1%)
+Missing values: 0
+
+Top correlations with G3 (no G1/G2):
+failures     -0.376254
+studytime     0.310649
+goout        -0.228668
+Dalc         -0.217654
+Medu          0.157077
+Fedu          0.132327
+famrel        0.129903
+absences     -0.062208
+freetime     -0.050480
+traveltime    0.041178
+
+Demographic at-risk rates:
+  sex:
+    F: 16.4%
+    M: 17.9%
+  address:
+    R: 15.7%
+    U: 17.5%
+  school:
+    GP: 16.2%
+    MS: 19.8%
