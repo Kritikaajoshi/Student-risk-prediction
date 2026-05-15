@@ -5,6 +5,11 @@ Using Behavioral and Engagement Data.
 
 Team: Simran Mogadala, Kritika Joshi, Mary Neha Reddy Thumma, Khadija Warraich
 
+## Languages Used
+
+- Python
+- Libraries Used: Pandas, Numpy
+
 ## Quickstart
 
 ```bash
